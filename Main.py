@@ -94,8 +94,8 @@ class Solution:
         """
         if not self.is_queue_empty():
             self.front += 1
-            return self.queue[self.front - 1]
-               
+            return self.queue[self.front - 1] 
+                
 
 
 # read the string text
